@@ -4,5 +4,5 @@
   programming language.</h2>
   <h3>Documentation for OpenCV is: </h3>
   
-  <h3> This repo consists of the following topic's jupyter notebooks for reference:</h3>
+  <h3> This repo consists of the following topic's jupyter notebooks for reference:</h3
   
