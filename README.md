@@ -1,5 +1,7 @@
 # OpenCV_basicLearning
 
+Let's do it
+
 <h2> This repository contains all the basic syntax and commands of OpenCV particularly focusing on Python 
   programming language.</h2>
   <h3>Documentation for OpenCV is: </h3>
